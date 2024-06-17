@@ -1,0 +1,22 @@
+# Setup
+title:               Quality of Logistics
+tagline:             'BxSciOly to the moon!'
+description:         'This site's theme is Landon (which I did not create), a reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Miranda Zhao
+  url:               https://www.github.com/U-3392
+  email:             mirandaz4@nycstudents.net
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y

@@ -8,14 +8,19 @@ title: Creator's notes
   Updated: 2024-06-17
 </p>
 
-## 
+## A "better team"?
+There is simply not enough data for a machine-learning approach to 
 
 ## Roster creator
 As a long-time member of Science Olympiad, I've witnessed the various struggles that shuffling around dozens of people within a Google Sheet can do. Therefore, my mission with this section of the site was to:
 
-1. Create a visual model that integrates a time schedule (blocks) with events and people
-2. Make an intuitive sorting mechanism to create team compositions
-3. Be able to convert the sorting results into a CSV for ease of sharing
+1. Create a **visual model** that integrates a time schedule (blocks) with events and people
+2. Make an **intuitive sorting mechanism** to create team compositions
+3. Be able to **convert the sorting results into a CSV** for ease of sharing
+
+<p class = "message">
+  <b>Future plans:</b><br>
+  Integrate names with 
 
 ## Academic simulator
 
